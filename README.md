@@ -1,5 +1,3 @@
-![22](https://user-images.githubusercontent.com/108722623/224347064-fb83de49-4de1-433f-92b4-798124eee335.png)
-
 Integration of OpenAI products into telegram.
 
 3 models for different needs:
